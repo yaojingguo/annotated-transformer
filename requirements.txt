@@ -11,3 +11,6 @@ flake8
 black
 GPUtil
 wandb
+# Make notebook work inside VS Code
+ipykernel
+ipywidgets
